@@ -64,10 +64,10 @@ python train.py
 
 ## 参考
 
-[1] https://github.com/eragonruan/text-detection-ctpn
+[1] https://github.com/senlinuc/caffe_ocr
 
-[2] https://github.com/senlinuc/caffe_ocr
+[2] https://github.com/chineseocr/chinese-ocr
 
-[3] https://github.com/chineseocr/chinese-ocr
+[3] https://github.com/eragonruan/text-detection-ctpn
 
-[4] https://github.com/xiaomaxiao/keras_ocr
+
